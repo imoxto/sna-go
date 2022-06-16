@@ -14,5 +14,5 @@ func main() {
 	server.GET("/user/:username", handlers.UserFindOne)
 
 	// start server
-	server.Logger.Fatal(server.Start(":3000"))
+	server.Logger.Fatal(server.Start("localhost:3000"))
 }

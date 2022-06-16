@@ -19,6 +19,8 @@ var Users = []User{
 	{"fafnir", "b", "gh4", "78j"},
 	{"lucoa", "c", "rt4", "78f"},
 	{"kobayashi", "k", "ac5", "s6u"},
+	
+	{"elulu", "e", "b77", "2s3"},
 }
 
 var ErrUserNotFound = errors.New("no users found")

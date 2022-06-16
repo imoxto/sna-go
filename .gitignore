@@ -1,7 +1,5 @@
-# js files ~~i need them for utility~~
+# Nodejs files ~~i need them for utility~~
 node_modules
-package.json
-package-lock.json
 index.js
 test.js
 
