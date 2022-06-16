@@ -6,4 +6,4 @@ I plan to make this a sample social networking api. Planning to learn go while w
 
 ## Dependencies used:
 
--[Echo](https://echo.labstack.com/)
+- [Echo](https://echo.labstack.com/)
